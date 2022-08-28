@@ -1,16 +1,18 @@
-### Hi there 👋
+# <p align="center">Hi there👋 I'm Gabriel Abubakar</p>
+## About me
+- 🔭 Excellence driven frontend engineer interested in creating user-centric web products.
+- 📚 Adept learner and framework agnostic developer
+- 🌱 I’m currently learning JavaScript
+- 👌 I love playing video games, game development and programming 
 
-<!--
-**GabrielAbubakar/GabrielAbubakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  ## Contact me
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/GabeAbubakarr)
+  
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAbubakar&layout=compact&theme=vue-dark)](https://github.com/GabrielAbubakar/github-readme-stats) <br/>
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAbubakar&show_icons=true&theme=vue-dark)](https://github.com/GabrielAbubakar/github-readme-stats) <br/>
+[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielabubakar&theme=vue-dark)](https://github.com/GabrielAbubakar/github-readme-stats) <br/>

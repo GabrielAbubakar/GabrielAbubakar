@@ -1,6 +1,6 @@
 # <p align="center">Hi there👋 I'm Gabriel Abubakar</p>
 ## About me
-- 🔭 Excellence driven frontend engineer interested in creating user-centric web products.
+- 🔭 Excellence-driven frontend engineer interested in creating user-centric web products.
 - 📚 Adept learner and framework agnostic developer
 - 🌱 I’m currently learning JavaScript
 - 👌 I love playing video games, game development and programming 

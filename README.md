@@ -2,7 +2,7 @@
 ## About me
 - 🔭 Excellence-driven frontend engineer interested in creating user-centric web products.
 - 📚 Adept learner and framework agnostic developer
-- 🌱 I’m currently learning JavaScript
+- 🌱 I work with Javascript and JS power tools on the frontend but I'm currently learning Python and SQL.
 
 
 ## Tech stack

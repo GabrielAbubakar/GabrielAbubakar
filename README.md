@@ -13,5 +13,3 @@
   
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAbubakar&layout=compact&theme=vue-dark)](https://github.com/GabrielAbubakar/github-readme-stats) <br/>
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielAbubakar&show_icons=true&theme=vue-dark)](https://github.com/GabrielAbubakar/github-readme-stats) <br/>
-[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielabubakar&theme=vue-dark)](https://github.com/GabrielAbubakar/github-readme-stats) <br/>

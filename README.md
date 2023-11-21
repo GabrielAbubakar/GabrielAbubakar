@@ -2,7 +2,7 @@
 ## About me
 - 🔭 Excellence-driven frontend developer interested in creating user-centric web products.
 - 📚 Adept learner and framework agnostic developer
-- 🌱 I work with Javascript and JS powered tools on the frontend but I'm currently learning and experimenting on mobile technologies with FLutter and Dart
+- 🌱 I work with Javascript and JS powered tools on the frontend and backend but I'm currently learning and experimenting on mobile app technologies with Flutter and Dart.
 
 
 ## Tech stack

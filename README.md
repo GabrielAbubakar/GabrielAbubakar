@@ -25,3 +25,4 @@
   
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAbubakar&layout=compact&theme=vue-dark)](https://github.com/GabrielAbubakar/github-readme-stats) <br/>
+[![wakatime](https://wakatime.com/badge/user/0ed0d1da-2b25-41b6-92a0-858d0df44a84.svg)](https://wakatime.com/@0ed0d1da-2b25-41b6-92a0-858d0df44a84)

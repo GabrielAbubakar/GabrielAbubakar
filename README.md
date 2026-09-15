@@ -1,8 +1,7 @@
 # <p align="center">Hi there👋 I'm Gabriel Abubakar</p>
 ## About me
-- 🔭 Excellence-driven software engineer interested in creating user-centric web products.
-- 📚 Adept learner and framework agnostic developer
-- 🌱 I work with Javascript and JS powered tools on the frontend and backend and I am currently learning and experimenting on mobile app development technologies with Flutter/Dart and React Native.
+- 🔭 Excellence-driven software engineer interested in creating user-centric web and mobile products.
+- 🌱 I work with Typescript and TS powered tools on the frontend and backend. Currently building [DropWash](https://play.google.com/store/apps/details?id=com.dropwash.customer)  with React Native and Expo.
 
 
 ## Tech stack
